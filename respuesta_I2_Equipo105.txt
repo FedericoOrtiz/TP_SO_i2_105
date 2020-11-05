@@ -1,0 +1,6 @@
+Facundo Gabriel Falcioni
+Pablo Nahuel Acosta
+Federico Agutín Ortiz
+
+a- Con el comando "git pull" actualizamos el repositorio al estado en el que se encuentra
+b- Sí, clonando el repositorio de GAMMA
